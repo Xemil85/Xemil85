@@ -1,6 +1,6 @@
 ### ℹ️ About me
 
-I'm first year IT degree student at Savonia
+I'm Second year IT degree student at Savonia
 
 <!--
 **Xemil85/Xemil85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
